@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: lightgray;
+}
+
+.head {
+    text-align: center;
+    height: 200px;
+    color: rgb(0, 0, 0);
+    background-color: steelblue;
+}
+
+.head h1 {
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.head p {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.about {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+    margin: 20px 70px;
+    padding: 50px;
+}
+
+.about h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+
+}
+
+.edu {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: bisque;
+    margin: 20px 70px;
+    padding: 50px;
+}
+
+.edu h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.edu p {
+    font-size: 18px;
+    background-color: white;
+    padding: 20px;
+    margin: 10px 200px;
+}
+
+.skills {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightgreen;
+    margin: 20px 70px;
+    padding: 50px;
+}
+
+.skills h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.skills p {
+    font-size: 18px;
+    background-color: white;
+    padding: 20px;
+    margin: 20px 200px;
+}
+.project{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: lightpink;
+    margin: 20px 70px;
+    padding: 50px;
+}
+.project h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.project p {
+    font-size: 18px;
+    background-color: white;
+    padding: 20px;
+    margin: 20px 200px;
+}
+.contact {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: darkslategray;
+    margin: 20px 70px;
+    padding: 50px;
+}
+.contact h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.contact p {
+    font-size: 18px;
+    background-color: white;
+    padding: 20px;
+    margin: 20px 200px;
+}
