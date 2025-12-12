@@ -11,7 +11,7 @@ html ,body{
 #main{
     height: 100%;
     width: 100%;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 #nav{
     height: 50px;
@@ -45,4 +45,35 @@ html ,body{
     color: white;
     font-size: 14px;
     font-weight: 280;
+}
+#hero{
+    height: 77%;
+    width: 100%;
+    background-color: black;
+    background-image: url(https://www.apple.com/in/home/heroes/nso-hero-2025/images/hero_endframe_large_2x.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+#hero>h1{
+    color: white;
+    padding-top: 23%;
+    font-size: 50px;
+    font-weight: 550;
+    padding-bottom: 12px;
+}
+#hero>h4{
+    color: white;
+    font-size: 26px;
+    padding-bottom: 15px;
+    font-weight: 400;
+}
+#hero>button{
+    padding: 12px 22px;
+    border-radius: 50px;
+    border: none;
+    background-color:#0071e3;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
 }
